@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env
+.env.*
+.envrc
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PyCharm
+*.iml
+
+# Byte-compiled / cache
+__pycache__/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Telegram secrets
+*.session
+*.session-journal
+
+# Runtime
+*.sqlite3
